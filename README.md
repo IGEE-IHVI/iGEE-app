@@ -9,7 +9,7 @@ The diagram illustrates the three-tier architecture of the iGEE web tool. The 
 
 Architecture :
 
-<img width="400" height="600" aling='center' alt="image" src="https://github.com/IGEE-IHVI/iGEE-app/blob/main/iGEE_system_architecture.png">
+<img width="400" height="600" aling="center" alt="image" src="https://github.com/IGEE-IHVI/iGEE-app/blob/main/iGEE_system_architecture.png">
 
 ## iGEE web tool
 
