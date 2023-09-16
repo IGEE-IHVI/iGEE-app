@@ -16,5 +16,5 @@ Refer to [iGEE web tool](http://www.gisonmeta.com), which represents the third-t
 
 Refer to [iGEE web tool user manual](https://github.com/IGEE-IHVI/iGEE-app/blob/main/iGEE%20web%20tool%20user%20manual.pdf) for detailed information on iGEE tool operation. 
 
-<img width="100%" height="700" alt="image" src="https://github.com/IGEE-IHVI/iGEE-app/blob/main/iGEE%20web%20tool%20example.png">
+<img width="100%" height="600" alt="image" src="https://github.com/IGEE-IHVI/iGEE-app/blob/main/iGEE%20web%20tool%20example.png">
 
