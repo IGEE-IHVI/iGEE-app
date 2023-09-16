@@ -10,7 +10,7 @@ Architecture :
 
 <img width="350" height="600" alt="image" src="https://github.com/IGEE-IHVI/iGEE-app/blob/main/iGEE_system_architecture.png">
 
-##iGEE web tool access
+## iGEE web tool
 Refer to [iGEE web tool](http://www.gisonmeta.com), which represents the third-tier on the GEE platform, built from the ‘data acquisition layer’ and ‘operation layer’ using GEE ui libraries. The web tool interface contains an user operation panel and a map panel. The app calls the specific parameters (land surface temperature or landcover) based on the user’s choice from the user operation panel of the iGEE tool. It then dynamically executes the retrieval algorithm backend and reloads the on-demand results on the map panel. Users need to select a parameter, satellite, time period, data format and a study area to process requests to direct the iGEE tool for computation. Once the computation starts, the tool will display the layers on the right panel. When the computation finishes, the option of ‘ Download result’ will appear on the left panel, which is used for exporting the files to the user’s local drive. Refer to Appendix B for the web tool user manual document. 
 
 Refer to [iGEE web tool user manual](https://github.com/IGEE-IHVI/iGEE-app/blob/main/iGEE%20web%20tool%20user%20manual.pdf) for detailed information on iGEE tool operation. 
